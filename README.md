@@ -17,4 +17,4 @@ Dataset: [Heart Failure Prediction - Kaggle](https://www.kaggle.com/datasets)
 
 ## Author
 
-Your Name – BSCS/BSAI Student, [Your University]
+Muhammad Fahad – BSAI Student, Superior University
